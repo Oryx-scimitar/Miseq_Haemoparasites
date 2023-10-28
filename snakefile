@@ -1,7 +1,7 @@
 #Steph_wildlife_trial snakefile from 13 June 2022
 #trial with Oct 2023 data
 
-configfile: "config_40-919527447_ThBa-opos.yaml"
+configfile: "config_40-919527447_ThBa_opos.yaml"
 # print (config['samples'])
 
 rule main:
